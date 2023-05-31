@@ -4,17 +4,22 @@ Detectingand preventing auto insurance fraud requires acombination of advanced d
 
 # Data Pre processing and EDA
 train_demographics, train_claim , train_policy , train_vehicle , train , test_demographics,
-test_claim, test_policy, test_vehicle , test --> Loaded datasets
+test_claim, test_policy, test_vehicle , test --> Loaded datasets.
+
 Displayed head, data types, shape, info, descriptive statistics, missing values, counts for each
 attribute in every csv files.
+
 Visualisation performed on the columns and obtained insigthts.
+
 Missing value treatment performed using mean, median and mode.
 Outlier treatment performed using IQR method
 Type conversion(From categorical to numerical) performed using Label Encoder.
 Correlation between the columns displayed.
+
 All the test and train datasets merged on Customer_Id attribute to get final training and testing
 data to build the machine learning model.
 Feature scaling performed by fitting and transforming the data.
+
 Additionally top 20 featured displayed using decision tree feature importances.
 
 # Model Building
