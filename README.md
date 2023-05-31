@@ -34,7 +34,11 @@ The best result model prediction results saved along with Customer Id in a CSV f
 
 # Advantages
 1.Improved Fraud Detection
+
 2.Time and Cost Efficiency
+
 3.Increased Accuracy
+
 4.Consistency and Objectivity
+
 5.Scalability
